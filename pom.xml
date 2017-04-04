@@ -11,6 +11,12 @@
 	<artifactId>concesionario_app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
+	<distributionManagement>
+		<repository>
+			<id>central</id>
+			<url>http://localhost:8081/artifactory/atsistemas-ruben-local</url>
+		</repository>
+	</distributionManagement>
 	<build>
 		<plugins>
 			<plugin>
