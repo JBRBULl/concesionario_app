@@ -1,0 +1,4 @@
+sonar.projectKey=concesionario
+sonar.projectName=concesionario app
+sonar.projectVersion=1.0
+sonar.sources=.
