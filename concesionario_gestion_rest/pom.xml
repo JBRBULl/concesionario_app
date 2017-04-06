@@ -9,7 +9,7 @@
 	<artifactId>concesionario_gestion_rest</artifactId>
 	<packaging>jar</packaging>
 	<build>
-		<plugins>
+		<plugins> 
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
 				<configuration>
